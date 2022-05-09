@@ -20,7 +20,7 @@ The following is a snipet of statistcal data by neighborhood "type"
 3. Rual cities have the highest average fare per ride and driver. It also have to loweset total rides completed and number of drivers. The data shows the high fare price is correlated with the lack of drivers and low demand. 
  
 ## Summary 
-Below are recommendations to help improved the affordability of ride sharing in rual and surburban areas:
+Below are recommendations to help improved the affordability of ride sharing in rual and surburban areas. The total fares by city type graph shows that rual and surburban data are correlated. The two lines have similar highs and lows. Therefore the following recommendations are for rual and surburban areas.  
 
 1. Offer a tier reward bonus program for drivers in rual and surburban areas to help encourage drivers to offer their services in those areas to compensate for the inital low demand. Rual areas should have a higer bonus then surburban areas. 
 
